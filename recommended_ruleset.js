@@ -30,7 +30,8 @@ module.exports = {
         "possible-timing-attack": true,
         "react-anchor-blank-noopener": true,
         "react-iframe-missing-sandbox": true,
-        "react-no-dangerous-html": true
+        "react-no-dangerous-html": true,
+
     }
 };
 
